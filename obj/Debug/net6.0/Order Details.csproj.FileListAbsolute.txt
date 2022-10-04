@@ -1,0 +1,61 @@
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\appsettings.Development.json
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\appsettings.json
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Order Details.exe
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Order Details.deps.json
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Order Details.runtimeconfig.json
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Order Details.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Order Details.pdb
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Humanizer.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Learnings\API's\Order Details\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\Order Details.csproj.AssemblyReference.cache
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\Order Details.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\Order Details.AssemblyInfoInputs.cache
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\Order Details.AssemblyInfo.cs
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\Order Details.csproj.CoreCompileInputs.cache
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\Order Details.MvcApplicationPartsAssemblyInfo.cs
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\Order Details.MvcApplicationPartsAssemblyInfo.cache
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\staticwebassets.build.json
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\staticwebassets.development.json
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\scopedcss\bundle\Order Details.styles.css
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\Order Details.csproj.CopyComplete
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\Order Details.dll
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\refint\Order Details.dll
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\Order Details.pdb
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\Order Details.genruntimeconfig.cache
+D:\Learnings\API's\Order Details\obj\Debug\net6.0\ref\Order Details.dll
